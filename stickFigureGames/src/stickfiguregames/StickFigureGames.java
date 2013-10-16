@@ -3,7 +3,16 @@
  * and open the template in the editor.
  */
 package stickfiguregames;
-
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.geom.Line2D;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Insets;
+import java.util.Random;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 /**
  *
  * @author sbrumwel
